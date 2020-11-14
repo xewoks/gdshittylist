@@ -7,21 +7,20 @@ There isnt much going on here at the moment but the list team will actively be a
 ## Owners:
 - Cyns
 - AcropolisBoy
+- Cohvi
+- Acidius
 
 ## List Admins:
 - MP3141
 - GDMeric
-- Cohvi
 
 ## List Moderators:
-- Acidius
 - Fulva
-- NikiX
+- kobra
+- corny
 - Lawnmower
 
 ## List Helpers:
-- crumche
-- Kobra
 - Conical
 - Tril
 - Matter
@@ -29,9 +28,9 @@ There isnt much going on here at the moment but the list team will actively be a
 
 ## Server Administrators:
 - ZekronGD
-- Blast
-- ItzLupe
+- gabelucario
 - jOnel
 
 ## Repo Maintainer:
 - ElectroSonic
+- Cyns
