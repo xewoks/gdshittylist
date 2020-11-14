@@ -31,6 +31,6 @@ There isnt much going on here at the moment but the list team will actively be a
 - gabelucario
 - jOnel
 ---
-## Repo Maintainer:
+## Repo Maintainers:
 - ElectroSonic
 - Cyns
