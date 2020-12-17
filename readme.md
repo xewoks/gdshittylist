@@ -9,7 +9,7 @@ Can I use the Shitty List template?
 - I mean, sure. just make sure you give credit somewhere and make sure you state that you're not affiliated with the shitty list.
 
 The website isnt loading! What can I do?
-- since no webhost is perfect, downtime is expected. you can either wait til the website is back online or you can do some behind the theme stuff and run it locally.
+- since no webhost is perfect, downtime is expected. you can either wait til the website is back online or you can do some behind the scene stuff and run it locally.
 ---
 ### List FAQ
 How long will my record take to get accepted? 
