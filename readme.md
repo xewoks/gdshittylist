@@ -6,30 +6,33 @@ There isnt much going on here at the moment but the list team will actively be a
 ---
 ## Owners:
 - Cyns
-- AcropolisBoy
+- Fulva
 - Cohvi
 - Acidius
 ---
 ## List Admins:
-- MP3141
-- GDMeric
+- Kobra456
+- GabeLucario
+- AcropolisBoy
 ---
 ## List Moderators:
-- Fulva
-- kobra
-- corny
-- Lawnmower
 ---
 ## List Helpers:
-- Conical
+- Vinny
+- Goodyman
 - Tril
-- Matter
-- LegionofBaum
+- Vink
+- GD Catalyst
+- Krakow
 ---
 ## Server Administrators:
-- ZekronGD
-- gabelucario
-- jOnel
+- Yeezo
+- Lupe
+- LukeQuartez
+- Nezzi
+- Krissi
+- Bluestone
+- ElectroSonic
 ---
 ## Repo Maintainers:
 - ElectroSonic

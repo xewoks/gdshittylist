@@ -8,7 +8,7 @@ header{
   left: 0;
   width: 100%;
   height: 100px;
-  background: rgb(200, 200, 200);
+  background: rgb(255, 218, 218);
 }
 #sitename{
   position: fixed;
@@ -16,6 +16,8 @@ header{
   left: 30px;
   font-size: 2em;
 }
+
+
 
 #pc-link{
   position: fixed;
@@ -25,7 +27,7 @@ header{
   font-size: 1.3em;
 }
 #list{
-  background: rgb(220, 220, 220);
+  background: rgb(173, 255, 193);
   position: fixed;
   top: 100px;
   left: 0;
@@ -33,7 +35,7 @@ header{
   overflow-y: auto;
 }
 #additional-information{
-  background: rgb(220, 220, 220);
+  background: rgb(198, 242, 255);
   position: fixed;
   top: 100px;
   right: 0;
@@ -56,10 +58,10 @@ header{
 
 }
 .entry:nth-child(odd){
-  background: rgb(228, 228, 228);
+  background: rgba(255, 210, 210);
 }
 .entry:hover{
-  background: rgb(202, 202, 202);
+  background: rgba(255, 182, 182, 0);
   cursor: pointer;
   color:rgba(0, 0, 0,0.5) !important;
 }
@@ -67,7 +69,7 @@ header{
 A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 
 .selected{
-  background: rgb(190, 190, 190) !important;
+  background: rgba(190, 190, 190, 0) !important;
 }
 .author{
   font-variant: small-caps;
