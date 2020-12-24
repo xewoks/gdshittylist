@@ -22,7 +22,7 @@ What's an easy way to prove I don't hack?
 - Show 2-5 seconds at the end of the previous attempt and the death of that attempt. This is the easiest way for us to verify you arent hacking/nocliping. However having click, fps counter or hand cam will help out a lot too
 
 It's been like more than a week and my record still hasn't been added, what do i do?
-- You can ask us in [#list-support](https://discord.gg/jRAYbe6w6z) , it was probably an accidentally deleting the record(yes it happens), accidentally deleting the form, your name was mispelled or you were rejected for cheating
+- You can ask us in [#list-support](https://discord.gg/jRAYbe6w6z) , it was probably an accidentally deleted record(yes it happens), accidentally deleting the form, your name was mispelled or you were rejected for cheating
 
 When will ___ be added to the list? 
 - With the way our current system works, the staff and relaibles play the levels, if the level gets enough positive opinions from us, it then goes into voting, where it is voted on if it will be added
@@ -38,29 +38,34 @@ More Coming Soon!
 - Cyns
 - Cohvi
 - Acidius
+- Fulva
 ---
 ## List Admins:
-- MP3141
 - AcropolisBoy
-- GDMeric
+- GabeLucario
+- Kobra
 ---
 ## List Moderators:
-- Fulva
-- kobra
-- corny
-- Lawnmower
+- None
 ---
 ## List Helpers:
-- Conical
+- Krakow
+- Catalyst
+- Vinny
+- Vink
 - Tril
-- Matter
-- LegionofBaum
+- TheConey
+- Goodyman
 ---
 ## Server Administrators:
-- ZekronGD
-- gabelucario
-- jOnel
+- Lupe
+- BlueStone
+- Nezzi
+- Electro
+- krissi
+- yeezo
+- LukeQuartez
 ---
 ## Repo Maintainers:
-- ElectroSonic
+- Electro
 - Cyns
