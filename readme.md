@@ -41,30 +41,27 @@ More Coming Soon!
 - Fulva
 ---
 ## List Admins:
-- AcropolisBoy
 - GabeLucario
 - Kobra
+-V1nnyy
 ---
 ## List Moderators:
-- None
+- Goodyman
 ---
 ## List Helpers:
-- Krakow
-- Catalyst
-- Vinny
 - Vink
 - Tril
 - TheConey
-- Goodyman
+- BlueStone
+- dots
 ---
 ## Server Administrators:
 - Lupe
-- BlueStone
 - Nezzi
 - Electro
 - krissi
 - yeezo
-- LukeQuartez
+- Magma
 ---
 ## Repo Maintainers:
 - Electro
